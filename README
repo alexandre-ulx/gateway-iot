@@ -1,0 +1,9 @@
+IoT Gateway Endpoint com Drogon
+================================
+
+This project is a high-performance gateway built using the Drogon Framework in C++. It serves as a secure and efficient endpoint for receiving, processing, and managing data from IoT devices in real time.
+
+Security: HTTPS support, token-based authentication, and easy TLS integration.
+Performance: Low-latency, asynchronous request handling with lightweight in-memory storage.
+Modularity: Scalable and extensible design, ready for future integrations with databases, message queues, and protocols like MQTT/Kafka.
+Applications: Perfect for IoT hubs, sensor data collection, remote device control, and more.
